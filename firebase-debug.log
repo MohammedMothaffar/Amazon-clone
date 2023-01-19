@@ -1,0 +1,86 @@
+[debug] [2022-12-24T10:04:19.830Z] ----------------------------------------------------------------------
+[debug] [2022-12-24T10:04:19.832Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HESO\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2022-12-24T10:04:19.833Z] CLI Version:   11.19.0
+[debug] [2022-12-24T10:04:19.833Z] Platform:      win32
+[debug] [2022-12-24T10:04:19.833Z] Node Version:  v16.18.0
+[debug] [2022-12-24T10:04:19.834Z] Time:          Sat Dec 24 2022 12:04:19 GMT+0200 (Eastern European Standard Time)
+[debug] [2022-12-24T10:04:19.834Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-24T10:04:19.837Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[warn] !  Unable to fetch the CLI MOTD and remote config. 
+[debug] [2022-12-24T10:04:20.119Z] Failed to fetch MOTD FirebaseError: Failed to make request to https://firebase-public.firebaseio.com/cli.json
+[debug] [2022-12-24T10:09:11.256Z] ----------------------------------------------------------------------
+[debug] [2022-12-24T10:09:11.258Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HESO\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2022-12-24T10:09:11.258Z] CLI Version:   11.19.0
+[debug] [2022-12-24T10:09:11.258Z] Platform:      win32
+[debug] [2022-12-24T10:09:11.258Z] Node Version:  v16.18.0
+[debug] [2022-12-24T10:09:11.259Z] Time:          Sat Dec 24 2022 12:09:11 GMT+0200 (Eastern European Standard Time)
+[debug] [2022-12-24T10:09:11.259Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-24T10:09:11.262Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[warn] !  Unable to fetch the CLI MOTD and remote config. 
+[debug] [2022-12-24T10:09:11.669Z] Failed to fetch MOTD FirebaseError: Failed to make request to https://firebase-public.firebaseio.com/cli.json
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=269253260&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2022-12-24T10:12:10.423Z] Error: spawn cmd ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:485:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2022-12-24T10:13:09.527Z] ----------------------------------------------------------------------
+[debug] [2022-12-24T10:13:09.529Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HESO\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2022-12-24T10:13:09.529Z] CLI Version:   11.19.0
+[debug] [2022-12-24T10:13:09.530Z] Platform:      win32
+[debug] [2022-12-24T10:13:09.530Z] Node Version:  v16.18.0
+[debug] [2022-12-24T10:13:09.530Z] Time:          Sat Dec 24 2022 12:13:09 GMT+0200 (Eastern European Standard Time)
+[debug] [2022-12-24T10:13:09.531Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-24T10:13:09.533Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[warn] !  Unable to fetch the CLI MOTD and remote config. 
+[debug] [2022-12-24T10:13:10.172Z] Failed to fetch MOTD FirebaseError: Failed to make request to https://firebase-public.firebaseio.com/cli.json
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=22808802&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2022-12-24T10:15:05.556Z] Error: spawn cmd ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:485:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2022-12-24T10:15:41.368Z] ----------------------------------------------------------------------
+[debug] [2022-12-24T10:15:41.369Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HESO\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2022-12-24T10:15:41.370Z] CLI Version:   11.19.0
+[debug] [2022-12-24T10:15:41.370Z] Platform:      win32
+[debug] [2022-12-24T10:15:41.370Z] Node Version:  v16.18.0
+[debug] [2022-12-24T10:15:41.371Z] Time:          Sat Dec 24 2022 12:15:41 GMT+0200 (Eastern European Standard Time)
+[debug] [2022-12-24T10:15:41.371Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-24T10:15:41.374Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[warn] !  Unable to fetch the CLI MOTD and remote config. 
+[debug] [2022-12-24T10:15:41.775Z] Failed to fetch MOTD FirebaseError: Failed to make request to https://firebase-public.firebaseio.com/cli.json
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=10751045&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2022-12-24T10:15:45.191Z] Error: spawn cmd ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:485:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[error] 
+[error] Error: An unexpected error has occurred.
