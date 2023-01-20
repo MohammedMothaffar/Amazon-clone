@@ -48,7 +48,7 @@ border-radious:24px;
     margin-left:10px;
     margin-right:10px;
 }
-.headre__nav{
+.header__nav{
    display:flex;
    justify-content: space-evenly;
 }

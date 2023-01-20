@@ -1,14 +1,14 @@
 import React from 'react'
 import './Header.css'
-import SearchIcon from '@mui/icons-material/Search';
-import ShoppingBasketIcon from '@mui/icons-material/ShoppingBasket';
+import SearchIcon from "@mui/icons-material/Search";
+import ShoppingBasketIcon from "@mui/icons-material/ShoppingBasket";
+import Logo1 from "./images/amazon2.png";
 
 function Header() {
   return (
-    <div className='header'>
+    <div className="header">
     <img  className="header__logo"
-    src="amazon2.png
-    " alt=""/>
+    src={Logo1} alt="" />
 
     <div className="header__search">
   <input className="header__searchInput" type="text"/>
@@ -17,22 +17,22 @@ function Header() {
     <div className="header__nav">
 
     <div className="header__option">
-    <span className='header__optionLineOne'>
+    <span className="header__optionLineOne">
     Hello Guest</span>
-    <span className='header__optionLineTwo'>
+    <span className="header__optionLineTwo">
     Sign In</span>
     </div>
     <div className="header__option">
-    <span className='header__optionLineOne'>
+    <span className="header__optionLineOne">
     Returns</span>
-    <span className='header__optionLineTwo'>
+    <span className="header__optionLineTwo">
     &Orders</span>
     </div>
 
     <div className="header__option">
-    <span className='header__optionLineOne'>
+    <span className="header__optionLineOne">
     Your</span>
-    <span className='header__optionLineTwo'>
+    <span className="header__optionLineTwo">
     Prime</span>
     </div>
 <div className="header__optionBasket">
